@@ -129,7 +129,7 @@ Your Name
 
 ## GitHub Repository
 
-https://github.com/yourusername/cpp-learning-website
+https://github.com/ompatel013569-debug/Om-Internship
 
 ---
 
